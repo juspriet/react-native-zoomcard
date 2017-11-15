@@ -11,7 +11,7 @@ Installation :
   react-native run-ios
   
   
-  ![alt text](https://github.com/juspriet/react-native-zoomcard/blob/master/movie.mov "movie")
+  ![alt text](https://github.com/juspriet/react-native-zoomcard/blob/master/movie.gif "movie")
 
 
 
